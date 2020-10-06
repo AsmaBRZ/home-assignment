@@ -1,0 +1,2 @@
+https://tfhub.dev/google/tf2-preview/mobilenet_v2/feature_vector/4
+https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html
