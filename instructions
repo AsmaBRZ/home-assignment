@@ -1,0 +1,10 @@
+1) The notebook should be launched with google colab
+
+2) Upload the following files on MyDrive root directory: 
+	- label_mapping.csv
+	- img_annotations.json
+	- image folder (assignment imgs)
+	- Foodvisor_assignment1.ipynb
+
+3) Open the file Foodvisor_assignment1.ipynb with google colab and follow the instructions
+
